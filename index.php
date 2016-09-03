@@ -53,10 +53,10 @@ if (isset($update->edited_message)){
     'reply_markup'=>json_encode([
       'inline_keyboard'=>[
         [
-          ['text'=>'ultrabot','url'=>'https://telegram.me/owners_groups']
+          ['text'=>'ultrabot channel','url'=>'https://telegram.me/owners_groups']
         ],
         [
-          ['text'=>'ultrabot','url'=>'https://telegram.me/owners_groups']
+          ['text'=>'ultrabot supporting','url'=>'https://telegram.me/golsarpm_bot']
         ]
       ]
     ])
